@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Books" max_length="40" name="x_nokas_publishing_books" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Author" max_length="255" name="author" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Pages" max_length="40" name="pages" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Published" max_length="40" name="published" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="255" name="title" type="string"/>
+    </element>
+</database>
