@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Books" language="en" table="x_nokas_publishing_books">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Books</label>
+            <language>en</language>
+            <name>x_nokas_publishing_books</name>
+            <plural>Books</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>manuel.perez2@soprasteria.com</sys_created_by>
+            <sys_created_on>2022-10-07 15:01:27</sys_created_on>
+            <sys_id>2ce50053971ad95062adb2ece053af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Books</sys_name>
+            <sys_package display_value="Publishing Test App" source="x_nokas_publishing">05650813971ad95062adb2ece053aff5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Publishing Test App">05650813971ad95062adb2ece053aff5</sys_scope>
+            <sys_update_name>sys_documentation_x_nokas_publishing_books__en</sys_update_name>
+            <sys_updated_by>manuel.perez2@soprasteria.com</sys_updated_by>
+            <sys_updated_on>2022-10-07 15:01:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
